@@ -1,0 +1,5 @@
+# Heading 
+
+here the same text <span style="color: rgb(37, 99, 235);">color</span>
+
+<mark data-color="var(--novel-highlight-green)" style="background-color: var(--novel-highlight-green); color: inherit;">bg</mark>
